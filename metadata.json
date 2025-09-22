@@ -1,0 +1,7 @@
+{
+  "name": "CyberEdit AI",
+  "description": "A responsive, cross-platform AI creative editing application with a futuristic neon cyber aesthetic. It supports bilingual English/Vietnamese, trial usage, license key unlock, history, batch prompts, and ultra-realistic outputs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
